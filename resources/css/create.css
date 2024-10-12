@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(161, 215, 236);
+}
+button{
+    background-color: rgb(107, 79, 233);
+    color: beige;
+    height: 35px;
+    width: 160px;
+    margin: 25px;
+    margin-left: 250px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+h2{
+    margin-left: 240px;
+    margin-top: 40px;
+    padding: 35px;
+    color:rgb(67, 80, 80);
+    font-size: 40px ;
+    font-weight: bold;
+}
+
+label{
+    margin-left: 30px;
+    color:rgb(79, 87, 87);
+    font-weight: 80px;
+    font-size: 18px;
+    margin-top: 15px
+
+
+}
+

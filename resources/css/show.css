@@ -1,0 +1,39 @@
+
+table, th, td {
+    border: 3px solid rgb(183, 173, 228);
+    border-collapse: collapse;
+   
+    margin-left: 70px;
+   
+  }
+  th, td {
+    padding: 8px;
+    font-size: 15px;
+  }
+
+h3{
+    color: #683edb;
+    margin-left: 50px;
+}
+button{
+    margin-left: 10px;
+    width: 135px;
+    height: 30px;
+
+}
+.delete{
+    background-color: rgb(201, 31, 31);
+    color: #fff;
+    font-size: 17px;
+}
+.edit{
+    background-color: rgb(56, 43, 175);
+    color: #fff;
+    font-size: 17px;
+}
+
+.insert{
+    background-color: rgb(189, 114, 17);
+    color: #fff;
+    font-size: 17px;
+}
